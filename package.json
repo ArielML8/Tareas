@@ -1,0 +1,22 @@
+{
+  "name": "tareas",
+  "version": "1.0.0",
+  "description": "Práctica de la clase 23-1-2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielML8/Tareas.git"
+  },
+  "author": "Ariel Maldonado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArielML8/Tareas/issues"
+  },
+  "homepage": "https://github.com/ArielML8/Tareas#readme",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
